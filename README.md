@@ -1,5 +1,3 @@
-# 2018_mlw
-
 # Machine Learning for Clinical Predictive Analytics
 
 We would like to introduce basic machine learning techniques and toolkits for clinical knowledge discovery in the workshop.
@@ -21,6 +19,9 @@ To accelerate the progress without obstacles, we hope that the readers fulfill t
 - [Skillset] basic python syntax
 - [Requirements] Google account OR [anaconda](https://anaconda.org/anaconda/python)
 
-In part 1, we will go through the basic of machine learning for classification problems.
-In part 2, we will investigate more on unsupervised learning methods for clustering and visualization.
-In part 3, we will play with neural networks.
+The repository include three tutorial jupyter notebooks.
+You may want to download it or run it on colab.
+
+- In part 1, we will go through the basic of machine learning for classification problems. The tutorial is modified from the version provided by Dr. Alistair Johnson. (Thanks!)
+- In part 2, we will investigate more on unsupervised learning methods for clustering and visualization.
+- In part 3, we will play with simple neural networks.
